@@ -1,0 +1,28 @@
+{
+  "name": "tables-md",
+  "version": "0.1.0",
+  "description": "Create markdown tables from javascript arrays.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -R nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/web-mech/tables.md.git"
+  },
+  "keywords": [
+    "markdown",
+    "tables",
+    "array"
+  ],
+  "author": "Michael Price",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/web-mech/tables.md/issues"
+  },
+  "homepage": "https://github.com/web-mech/tables.md",
+  "devDependencies": {
+    "better-assert": "^1.0.1",
+    "mocha": "^1.21.4"
+  }
+}
